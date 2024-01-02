@@ -1,0 +1,9 @@
+# Preface {.unnumbered}
+
+This is a Quarto book.
+
+To learn more about Quarto books visit <https://quarto.org/docs/books>.
+
+Does a [link to the summary](summary.qmd) work?
+
+or only @sec-summary ?
